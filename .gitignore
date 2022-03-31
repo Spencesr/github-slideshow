@@ -2,3 +2,6 @@ _site/
 .sass-cache/
 .jekyll-metadata
 .bundle
+git fetch origin
+git checkout -b my-slide origin/my-slide
+git merge main
